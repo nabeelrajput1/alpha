@@ -815,8 +815,8 @@ iframe {
     cursor: pointer;
     text-decoration: none;
     text-align: center;
-    color: white;
-    background-color:var(--primary) ;
+    color: white !important;
+    background-color:var(--secondary) ;
     text-transform: uppercase;
     padding: 5px 20px;
     font-weight: 600;
